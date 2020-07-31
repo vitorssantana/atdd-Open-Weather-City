@@ -20,13 +20,11 @@ Para configurar o ambiente, é necessário:
 
     - gem install capybara
 
-    - gem install capybara-webkit
-
-    - gem install selenium-webdriver
-
     - gem install rails
 
     - gem install httparty
+    
+    - gem install rspec
 
 3 - Depois de instalado, para executar os dois testes de uma vez, só rodar o seguinte comando na pasta raíz:
 
